@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "港町十三番地",
+  "base_artist": "美空ひばり",
+  "createdAt": "2025-12-31T06:39:20.940945Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "港町十三番地",
+      "artist": "美空 ひばり",
+      "has_synced": false,
+      "path": "select/pl_01_港町十三番地_美空_ひばり.txt"
+    }
+  ]
+}
